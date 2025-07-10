@@ -2,7 +2,7 @@
 
 ![Quime Screenshot](URL_DA_SUA_IMAGEM_AQUI) <!-- TIRE UM PRINT BONITO OU FAÇA UM GIF! -->
 
-**Live Demo:** [https://seusite.com/quime](https://seusite.com/quime) <!-- LINK PARA O PROJETO FUNCIONANDO -->
+**Live Demo:** [Clique aqui](https://infoscgg22.elementfx.com/) <!-- LINK PARA O PROJETO FUNCIONANDO -->
 
 ## 📝 Sobre o Projeto
 
