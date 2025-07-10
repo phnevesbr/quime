@@ -1,6 +1,6 @@
 # Quime - Plataforma de Quizzes Sociais 🚀
 
-![Quime Screenshot](URL_DA_SUA_IMAGEM_AQUI) <!-- TIRE UM PRINT BONITO OU FAÇA UM GIF! -->
+![Quime Screenshot](https://i.ibb.co/7NxZVFrt/erasebg-transformed.png) <!-- TIRE UM PRINT BONITO OU FAÇA UM GIF! -->
 
 **Live Demo:** [Clique aqui](https://infoscgg22.elementfx.com/) <!-- LINK PARA O PROJETO FUNCIONANDO -->
 
